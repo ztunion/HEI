@@ -54,10 +54,9 @@ All figures are estimates and have not yet been measured.
 
 EVA-BERT applies HEI to vulnerability analysis. A client checks its software bill of materials (SBOM) against vulnerability data held by a provider, without revealing its inventory. The provider's BERT-based model runs under HE on interlingua records of SBOM entries and CVEs, and returns encrypted risk scores that only the client can decrypt.
 
-## Documents
+## Document
 
 - [Introduction to HEI](<Introduction to HEI.md>): what HE is, how HEI improves on it, and open questions.
-- [EVA-BERT white paper](EVA-BERT.md): encrypted vulnerability analysis with HEI.
 
 ## Status
 
