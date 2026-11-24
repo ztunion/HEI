@@ -1,5 +1,5 @@
 # **Introduction to Homomorphic Encryption Interlingua (HEI)**
-
+`michael@ztunion.com`
 
 HEI is an approach to making homomorphic encryption (HE) computation practical for various AI tasks by using an interlingua, a short task-scoped representation of the input. In this approach, the client (the entity that sends the request) compiles input into an interlingua and encrypts it. An HE processing system then works on the ciphertext without ever seeing plaintext. Finally, the client decrypts the result, decompiles it, and releases the output.
 
@@ -215,4 +215,3 @@ The performance figures in this document are the author's estimates. The next st
 
 #
 © 2026 ZTUnion LLC. All rights reserved.
-`michael@ztunion.com`
