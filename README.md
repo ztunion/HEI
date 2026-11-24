@@ -17,8 +17,8 @@ Because HEI works on what is computed, not on the HE scheme or the hardware, its
 ## How it works
 
 ```
- CLIENT TRUST BOUNDARY                       HE PROCESSING SYSTEM
-+-------------------------------+            (never sees plaintext)
+ CLIENT TRUST BOUNDARY                                 HE PROCESSING SYSTEM
++-------------------------------+                     (never sees plaintext)
 |                               |
 |  Input                        |
 |    |                          |
