@@ -1,6 +1,6 @@
 # Homomorphic Encryption Interlingua (HEI)
-
 michael@ztunion.com
+
 
 # Why HEI
 
