@@ -50,10 +50,6 @@ HEI does not prescribe how input is translated into an interlingua and back, the
 
 All figures are estimates and have not yet been measured.
 
-## Example: EVA-BERT
-
-EVA-BERT applies HEI to vulnerability analysis. A client checks its software bill of materials (SBOM) against vulnerability data held by a provider, without revealing its inventory. The provider's BERT-based model runs under HE on interlingua records of SBOM entries and CVEs, and returns encrypted risk scores that only the client can decrypt.
-
 ## Document
 
 - [Introduction to HEI](<Introduction to HEI.md>): what HE is, how HEI improves on it, and open questions.
