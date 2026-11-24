@@ -66,3 +66,6 @@ HEI is a concept with estimated, not measured, performance. The next step is an 
 ## Feedback
 
 Questions, critiques and challenges are welcome. Open an issue or contact michael@ztunion.com.
+
+#
+© 2026 ZTUnion LLC. All rights reserved.
