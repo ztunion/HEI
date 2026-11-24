@@ -219,3 +219,6 @@ The performance figures in this document are the author's estimates. The next st
 28. J. Zhang, X. Yang, L. He et al., "Secure Transformer Inference Made Non-interactive," NDSS 2025\.
 
 29. J. Park, S. Park, J. H. Park, J. H. Ahn, J. H. Cheon, G. Hanrot, J. W. Kim, M. Park, and D. Stehlé, "Scaling up FHE-based Privacy-Preserving ML: Higher Throughput, Longer Inputs for LLama-3-8B," arXiv:2601.18511, 2026\.
+
+#
+© 2026 ZTUnion LLC. All rights reserved.
