@@ -123,7 +123,7 @@ The estimates are based on published GPU timings for HE \[9, 10\] and assume the
 
 # **Use cases**
 
-* **Vulnerability analysis**: assess software and hardware bills of materials with a provider's model, using fields such as component, version and vendor, against vulnerability records such as CVEs. The bills of materials stay encrypted.
+* **Vulnerability analysis: assess software bills of materials, using fields such as component, version and vendor, against a provider's vulnerability data and model to find affected components and set priority. The bills of materials stay encrypted.
 
 * **Customer support triage**: classify and route support tickets by issue type and priority with a provider's model, which never sees customer data.
 
