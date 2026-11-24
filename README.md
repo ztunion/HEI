@@ -56,7 +56,7 @@ EVA-BERT applies HEI to vulnerability analysis. A client checks its software bil
 
 ## Documents
 
-- [Introduction to HEI](<Introduction to HEI.md>): what HE is, how HEI improves on it, and open questions.
+- [Introduction to HEI](<Introduction_to_HEI.md>): what HE is, how HEI improves on it, and open questions.
 - [EVA-BERT white paper](EVA-BERT.md): encrypted vulnerability analysis with HEI.
 
 ## Status
