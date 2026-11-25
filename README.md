@@ -1,6 +1,6 @@
 # Homomorphic Encryption Interlingua (HEI)
 
-# Why HEI
+## Why HEI
 
 HE lets a system compute on data it cannot read, but it is typically 1,000 to 1,000,000 times slower than plaintext computation. Most work on speeding up HE makes each encrypted operation faster, through better algorithms, parallel code, or dedicated hardware.
 
