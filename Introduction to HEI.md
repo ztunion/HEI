@@ -1,4 +1,4 @@
-# Introduction to Homomorphic Encryption Interlingua (HEI) <small>[michael@ztunion.com](mailto:michael@ztunion.com)</small>
+# Introduction to Homomorphic Encryption Interlingua (HEI) <sub>[michael@ztunion.com](mailto:michael@ztunion.com)</sub>
 <br>
 <br>
 <br>
